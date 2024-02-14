@@ -2,8 +2,6 @@
 
 This repository contains two Python scripts for Natural Language Processing (NLP) tasks and text summarization, as well as a requirements.txt file specifying the necessary dependencies. Read the tutorials on Medium here:
 
-[Writing Your First NLP Python Script: From Text Preprocessing to Named Entity Recognition](https://medium.com/@alexreed.atr/a3eb71f5b2f?source=friends_link&sk=202e9690591868f22a142ef4ddc8bd38)
-[Creating a Text Summarization Tool in Python using NLP](https://medium.com/@alexreed.atr/58fa7aa54b66?source=friends_link&sk=7706cb1ad4d4fce60074c5ca25b336bd)
 
 ## What is Natural Language Processing (NLP)?
 
@@ -68,11 +66,5 @@ python TextSummarization_Preprocess.py
 ```
 ---
 ## Feedback:
-
-For questions, suggestions, or collaboration opportunities, please don't hesitate to reach out me.
-- **Email**: [Alex Reed](mailto:alexreed@ucsb.edu)
-- **LinkedIn**: [Alex Reed on LinkedIn](https://www.linkedin.com/in/alextreed)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alextreed)
 
 Feel free to explore the scripts and use them for your NLP tasks. If you have any questions or suggestions, don't hesitate to reach out through LinkedIn or by creating an issue in this repository.
